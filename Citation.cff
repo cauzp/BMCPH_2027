@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: "Zhang"
+    given-names: "Pu"
+  - family-names: "Li"
+    given-names: "Yiliang"
+  - family-names: "Hui"
+    given-names: "Pan"
+  - family-names: "Jiang"
+    given-names: "Na"
+title: "JMIR_116035"
+url: "https://github.com/cauzp/JMIR_116035"

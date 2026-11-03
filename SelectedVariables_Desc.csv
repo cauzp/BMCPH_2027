@@ -1,0 +1,20 @@
+ Variable Name,Mean,SD,Min,Median,Max
+"Covid Infection Rate (per 10,000 persons)",0.433,2.669,0.000,0.064,40.827
+Per Capita Taxis (count),6.818,6.343,0.163,4.464,34.205
+Per Capita Universities (count),0.018,0.015,0.002,0.013,0.085
+Tertiary Industry Share of GDP (%),49.530,7.950,28.470,48.730,83.870
+"Covid Death Rate (per 10,000 persons)",0.019,0.192,0.000,0.000,3.138
+Per Capita Local Public Budget Revenue (yuan),5029.871,3912.524,966.846,3772.459,28321.137
+Per Capita Unemployment Insurance Participants (persons),1209.963,932.135,223.525,920.594,6933.842
+Per Capita Gas Supply (10k cu.m),75.597,97.075,0.212,48.106,847.022
+Per Capita Bank Deposits (yuan),111699.710,86678.233,28408.010,84878.050,827343.800
+Per Capita Licensed Doctors (persons),28.507,5.736,15.423,28.322,54.153
+"Average Annual Population (10,000 persons)",467.441,388.743,44.000,362.000,3209.000
+Per Capita Invention Patents (count),1.950,3.531,0.005,0.660,28.902
+Per Capita Museums (count),0.043,0.039,0.002,0.033,0.376
+Per Capita Highway Freight Traffic (10k tons),27.233,22.607,2.077,23.026,287.518
+GDP Growth Rate (%),2.629,3.074,-20.630,3.400,12.010
+Per Capita Highway Passenger Traffic (10k persons),5.863,9.559,0.429,4.292,149.205
+Per Capita Library Collections (10k copies),0.837,0.983,0.122,0.587,8.585
+Per Capita Domestic Enterprises (count),2.408,1.679,0.239,1.991,10.306
+Per Capita Liquefied Petroleum Gas (tons),43.192,70.128,0.174,22.898,524.163
